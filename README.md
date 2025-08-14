@@ -9,5 +9,5 @@ A React task displaying skincare product cards with pastel colors, hover scale e
 - Hover scale effect for interactivity
 
 ## Tech Stack
-- React
-- Tailwind CSS
+- **React** – for building the components
+- **Tailwind CSS** – for styling and responsiveness
