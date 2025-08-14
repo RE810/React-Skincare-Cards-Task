@@ -11,6 +11,3 @@ A React task displaying skincare product cards with pastel colors, hover scale e
 ## Tech Stack
 - React
 - Tailwind CSS
-
-## Live Demo
-Check out the live demo here: [React Skincare Cards](https://rawanessam1.github.io/React-Skincare-Cards-Task/)
